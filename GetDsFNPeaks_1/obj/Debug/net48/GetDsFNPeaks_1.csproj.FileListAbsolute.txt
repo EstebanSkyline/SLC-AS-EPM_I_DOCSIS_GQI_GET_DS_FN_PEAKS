@@ -1,0 +1,5 @@
+C:\GIT\Automation\Generic\DataMiner Solutions\SLC-AS-EPM_I_DOCSIS_GQI_GET_DS_FN_PEAKS\GetDsFNPeaks_1\obj\Debug\net48\GetDsFNPeaks_1.csproj.AssemblyReference.cache
+C:\GIT\Automation\Generic\DataMiner Solutions\SLC-AS-EPM_I_DOCSIS_GQI_GET_DS_FN_PEAKS\GetDsFNPeaks_1\obj\Debug\net48\GetDsFNPeaks_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\Automation\Generic\DataMiner Solutions\SLC-AS-EPM_I_DOCSIS_GQI_GET_DS_FN_PEAKS\GetDsFNPeaks_1\obj\Debug\net48\GetDsFNPeaks_1.AssemblyInfoInputs.cache
+C:\GIT\Automation\Generic\DataMiner Solutions\SLC-AS-EPM_I_DOCSIS_GQI_GET_DS_FN_PEAKS\GetDsFNPeaks_1\obj\Debug\net48\GetDsFNPeaks_1.AssemblyInfo.cs
+C:\GIT\Automation\Generic\DataMiner Solutions\SLC-AS-EPM_I_DOCSIS_GQI_GET_DS_FN_PEAKS\GetDsFNPeaks_1\obj\Debug\net48\GetDsFNPeaks_1.csproj.CoreCompileInputs.cache
