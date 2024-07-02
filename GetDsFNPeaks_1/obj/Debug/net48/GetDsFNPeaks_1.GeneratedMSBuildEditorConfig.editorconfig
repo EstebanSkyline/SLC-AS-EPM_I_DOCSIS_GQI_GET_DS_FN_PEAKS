@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = GetDsFNPeaks_1
+build_property.ProjectDir = C:\GIT\Automation\Generic\DataMiner Solutions\SLC-AS-EPM_I_DOCSIS_GQI_GET_DS_FN_PEAKS\GetDsFNPeaks_1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
